@@ -1,0 +1,7 @@
+data/
+*.pt
+*.onnx
+*.engine
+runs/
+wandb/
+.DS_Store
